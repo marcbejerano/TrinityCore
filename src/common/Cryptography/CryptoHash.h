@@ -23,6 +23,7 @@
 #include "Errors.h"
 #include <array>
 #include <string>
+#include <utility>
 #include <string_view>
 #include <openssl/evp.h>
 
